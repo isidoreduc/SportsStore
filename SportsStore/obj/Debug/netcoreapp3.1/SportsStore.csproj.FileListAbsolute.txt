@@ -65,3 +65,4 @@ C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\runtimes\w
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
