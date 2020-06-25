@@ -20,10 +20,11 @@ namespace SportsStore.Controllers
 
         //public IActionResult Index() => View(_repo.Products);
 
-        public ViewResult Index(int productPage = 1) => 
+        public ViewResult Index(string category, int productPage = 1) => 
             View(new ProductsListViewModel
             {
                 Products = _repo.Products                                // get products from repo
+                    .Where(p => category == null || p.Category == category)
                     .OrderBy(p => p.ProductID)                           // order by id
                     .Skip((productPage - 1) * PageSize)                  // skip products occurring before the start of the current page
                     .Take(PageSize),                                     // take 4 products
@@ -32,7 +33,8 @@ namespace SportsStore.Controllers
                     CurrentPage = productPage,
                     ItemsPerPage = PageSize,
                     TotalItems = _repo.Products.Count()
-                }
+                },
+                CurrentCategory = category
             }
                 
         );

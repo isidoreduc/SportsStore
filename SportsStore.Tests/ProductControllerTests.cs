@@ -25,7 +25,7 @@ namespace SportsStore.Tests
 
             // Act            
             IEnumerable<Product> result =
-                (controller.Index() as ViewResult).ViewData.Model
+                (controller.Index(null) as ViewResult).ViewData.Model
                 as IEnumerable<Product>;
 
             // Assert            
@@ -53,7 +53,7 @@ namespace SportsStore.Tests
             
             // Act
             IEnumerable<Product> result =
-                (controller.Index(2) as ViewResult).ViewData.Model
+                (controller.Index(null, 2) as ViewResult).ViewData.Model
                     as IEnumerable<Product>;
             
             // Assert
