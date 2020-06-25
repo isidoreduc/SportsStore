@@ -28,6 +28,7 @@ namespace SportsStore
         {
             services.AddControllersWithViews();
             services.AddDbContext<StoreDbContext>(opts => opts.UseSqlServer(Configuration["ConnectionStrings:StoreConnectionString"]));
+            services.AddScoped<IStoreRepository, EFStoreRepository>(); // adds a service where each http requests gets its own repository object
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
