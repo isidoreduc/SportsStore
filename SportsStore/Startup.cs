@@ -34,6 +34,7 @@ namespace SportsStore
             services.AddSession();
             services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped<IOrderRepository, EFOrderRepository>();
 
         }
 
