@@ -144,8 +144,6 @@ C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStor
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Cart.cshtml.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
-C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
-C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Completed.cshtml.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.RazorComponent.input.cache
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
@@ -160,3 +158,7 @@ C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Page
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\OrderTable.razor.g.cs
