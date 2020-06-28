@@ -151,3 +151,12 @@ C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStor
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\SportsStore.dll
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_Imports.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Products.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Routed.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
