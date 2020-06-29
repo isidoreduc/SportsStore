@@ -165,3 +165,6 @@ C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\RazorDecla
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Details.razor.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Editor.razor.g.cs
 C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\IdentityUsers.cshtml.g.cs
