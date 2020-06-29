@@ -1,9 +1,7 @@
 ﻿version: "3"
 services:
     sportsstore:
-        build: 
-		    context: ./SportsStore
-		    dockerfile: ./SportsStore/Dockerfile
+        build: .
         ports:
             - "5000:5000"
         environment:
