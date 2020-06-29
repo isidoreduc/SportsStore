@@ -1,0 +1,14 @@
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\SportsStore.AssemblyInfoInputs.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\SportsStore.AssemblyInfo.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\SportsStore.RazorComponent.input.cache
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\AdminLayout.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\Details.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\Editor.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\Orders.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\OrderTable.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\Products.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\Routed.razor.g.cs
+C:\Users\AR\DEVELOPMENT\SportsSln\SportsStore\obj\Release\netcoreapp3.1\RazorDeclaration\Pages\Admin\_Imports.razor.g.cs
